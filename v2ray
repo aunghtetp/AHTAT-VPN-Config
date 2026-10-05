@@ -1,10 +1,21 @@
 {
   "Japan": [
-"trojan://UX82473651@prime-corgi.rooster465.autos:443?allowInsecure=1&sni=prime-corgi.rooster465.autos",
-    "ss://YWVzLTI1Ni1nY206M2VPRmVOc3NkZTdQWVlNdg%3D%3D@84.247.155.196:80?headerType=none&type=tcp#%F0%9F%87%AF%F0%9F%87%B5%5Bopenproxylist.com%5D%20Japan-Tokyo",
-    "vless://4e4f1f70-5e56-4a76-bb9d-db087f4690c4@172.67.156.147:443?path=%2Ftyxyws&security=tls&encryption=none&host=jp3.yohototo.top&fp=chrome&type=ws&sni=jp3.yohototo.top#%F0%9F%87%AF%F0%9F%87%B5%5Bopenproxylist.com%5D%20Japan-Tokyo",
-    "vless://47fcef29-ab4e-4aa6-932b-d95a18f28a4e@162.159.39.218:80?encryption=none&security=none&type=ws&host=8nj2r.2k8t.f88.hh.vavava.kdns.fr&path=%2F%3Fed%3D2560#%F0%9F%87%AF%F0%9F%87%B5%5Bopenproxylist.com%5D%20Japan-3",
-    "vmess://eyJhZGQiOiI0NS4zMi41Ny4xMTgiLCJhaWQiOiIwIiwiYWxwbiI6IiIsImVjaENvbmZpZ0xpc3QiOiIiLCJleHRyYSI6IiIsImZtIjoiIiwiZnAiOiIiLCJob3N0IjoiIiwiaWQiOiIzNWI4OTgzMi0wYTdjLTQ4ZGQtOGQxYy1hMjg5MWI1MjIxOTUiLCJtb2RlIjoiIiwibmV0IjoidGNwIiwicGF0aCI6IiIsInBjcyI6IiIsInBvcnQiOiI0NDMzIiwicHMiOiLwn4ev8J+HtVtvcGVucHJveHlsaXN0LmNvbV0gdm1lc3MtSlAiLCJzY3kiOiJhdXRvIiwic25pIjoiIiwidGxzIjoiIiwidHlwZSI6Im5vbmUiLCJ2IjoiMiIsInZjbiI6IiJ9"
+    "trojan://UX82473651@prime-corgi.rooster465.autos:443?allowInsecure=1&sni=prime-corgi.rooster465.autos#🇯🇵[openproxylist.com] trojan-JP",
+    "trojan://UX82473651@accurate-frog.rooster465.autos:443?allowInsecure=1&sni=accurate-frog.rooster465.autos#🇯🇵[openproxylist.com] trojan-JP",
+    "trojan://UX82473651@dynamic-imp.rooster465.autos:443?sni=dynamic-imp.rooster465.autos#🇯🇵[openproxylist.com] trojan-JP",
+    "trojan://UX82473651@musical-terrier.rooster465.autos:443?allowInsecure=1&sni=musical-terrier.rooster465.autos#🇯🇵[openproxylist.com] trojan-JP",
+    "trojan://UX82473651@obliging-louse.rooster465.autos:443?sni=obliging-louse.rooster465.autos#🇯🇵[openproxylist.com] trojan-JP",
+    "trojan://UX82473651@winning-marten.rooster465.autos:443?sni=winning-marten.rooster465.autos#🇯🇵[openproxylist.com] trojan-JP",
+    "trojan://UX82473651@concrete-aardvark.rooster465.autos:443?sni=concrete-aardvark.rooster465.autos#🇯🇵[openproxylist.com] trojan-JP",
+    "trojan://UX82473651@organic-caribou.rooster465.autos:443?sni=organic-caribou.rooster465.autos#🇯🇵[openproxylist.com] trojan-JP",
+    "trojan://UX82473651@intense-sole.rooster465.autos:443?security=tls&sni=intense-sole.rooster465.autos#🇯🇵[openproxylist.com] trojan-JP",
+    "trojan://UX82473651@fancy-javelin.rooster465.autos:443?sni=fancy-javelin.rooster465.autos#🇯🇵[openproxylist.com] trojan-JP",
+    "trojan://UX82473651@comic-poodle.rooster465.autos:443?security=tls&sni=comic-poodle.rooster465.autos#🇯🇵[openproxylist.com] trojan-JP",
+    "trojan://UX82473651@promoted-rattler.rooster465.autos:443?security=tls&sni=promoted-rattler.rooster465.autos#🇯🇵[openproxylist.com] trojan-JP",
+    "trojan://UX82473651@integral-rodent.rooster465.autos:443?sni=integral-rodent.rooster465.autos#🇯🇵[openproxylist.com] trojan-JP",
+    "trojan://UX82473651@assuring-skink.rooster465.autos:443?sni=assuring-skink.rooster465.autos#🇯🇵[openproxylist.com] trojan-JP",
+    "trojan://UX82473651@evolving-platypus.rooster465.autos:443?security=tls&sni=evolving-platypus.rooster465.autos#🇯🇵[openproxylist.com] trojan-JP",
+    "trojan://UX82473651@brief-glider.rooster465.autos:443?security=tls&sni=brief-glider.rooster465.autos#🇯🇵[openproxylist.com] trojan-JP"
   ],
   "Netherlands": [
     "vless://820a850b-6e10-45e6-8142-2df17a394504@107.189.26.239:443?security=reality&encryption=none&pbk=F3XkvPrGmCOrJpNhpPqkVHrZ58YA0Z8VCp6y7s6We2U&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=cdn.dodostatic.net&sid=c09a8eae8476d36c#%F0%9F%87%B3%F0%9F%87%B1%5Bopenproxylist.com%5D%20NL-Reality",
