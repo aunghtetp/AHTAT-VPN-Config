@@ -1,10 +1,15 @@
 {
   "Japan": [
-    "trojan://UX82473651@prime-corgi.rooster465.autos:443?allowInsecure=1&sni=prime-corgi.rooster465.autos#🇯🇵[openproxylist.com] trojan-JP",
-    "trojan://UX82473651@accurate-frog.rooster465.autos:443?allowInsecure=1&sni=accurate-frog.rooster465.autos#🇯🇵[openproxylist.com] trojan-JP",
-    "trojan://UX82473651@dynamic-imp.rooster465.autos:443?sni=dynamic-imp.rooster465.autos#🇯🇵[openproxylist.com] trojan-JP",
-    "trojan://UX82473651@musical-terrier.rooster465.autos:443?allowInsecure=1&sni=musical-terrier.rooster465.autos#🇯🇵[openproxylist.com] trojan-JP",
-    "trojan://UX82473651@obliging-louse.rooster465.autos:443?sni=obliging-louse.rooster465.autos#🇯🇵[openproxylist.com] trojan-JP",
+   "vless://57beeeb0-03fc-4fc9-94da-7604488a7134@43.247.132.42:41563?security=reality&encryption=none&pbk=HrcXRHtsitc_AVlN-_8fZuRgaP-Mqa_9JJotI9OnkVc&headerType=none&fp=random&type=tcp&flow=xtls-rprx-vision&sni=iosapps.itunes.apple.com&sid=25c79e5856c7#🇯🇵[openproxylist.com] vless-JP",
+"vless://ee18d188-14cc-417e-beb1-70e4add6d023@142.91.108.25:443?security=reality&encryption=none&pbk=9ZCYjybxMQ7JpE39B8u_Bo-alI1LIbt5ER0E-4yMjiM&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=jp3.nztvpn.com&sid=ea36c03d86f91287#🇯🇵[openproxylist.com] vless-JP",
+"vless://b98d4c6e-6770-4a31-8256-a4750cdea0e7@t14.qifei.app:443?security=reality&encryption=none&pbk=0i_xAxYgSNx5NMpK2lOaWGS-CvAiD_LneYPO0MF0owo&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.amazon.com&sid=1a#🇯🇵[openproxylist.com] vless-JP",
+"trojan://UX82473651@evident-ant.rooster465.autos:443?security=tls&sni=evident-ant.rooster465.autos#🇯🇵[openproxylist.com] trojan-JP",
+"trojan://UX82473651@allowed-poodle.rooster465.autos:443?security=tls&sni=allowed-poodle.rooster465.autos#🇯🇵[openproxylist.com] trojan-JP",
+"trojan://UX82473651@live-stallion.rooster465.autos:443?security=tls&sni=live-stallion.rooster465.autos#🇯🇵[openproxylist.com] trojan-JP",
+"trojan://UX82473651@warm-krill.rooster465.autos:443?security=tls&sni=warm-krill.rooster465.autos#🇯🇵[openproxylist.com] trojan-JP",
+"trojan://UX82473651@normal-macaque.rooster465.autos:443?security=tls&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=normal-macaque.rooster465.autos#🇯🇵[openproxylist.com] trojan-JP",
+"trojan://UX82473651@amazed-mako.rooster465.autos:443?security=tls&sni=amazed-mako.rooster465.autos#🇯🇵[openproxylist.com] trojan-JP",
+"trojan://UX82473651@musical-terrier.rooster465.autos:443?security=tls&sni=musical-terrier.rooster465.autos#🇯🇵[openproxylist.com] trojan-JP"
 "vless://756e8f39-04e8-436d-b5c6-905d37d9562c@188.114.96.3:2087?path=%2FeyJqdW5rIjoiR1BxUFhYR0w1TlBLMTRsIiwicHJvdG9jb2wiOiJ2bCIsIm1vZGUiOiJwcm94eWlwIiwicGFuZWxJUHMiOltdfQ&security=tls&encryption=none&insecure=0&host=ez-98919a.motoricb.workers.dev&fp=chrome&type=ws&allowInsecure=0&sni=ez-98919a.motoricb.workers.dev#🇯🇵[www.v2nodes.com] V2Ray Vless-JP-5602181",
   "vless://36d9003c-7240-40bc-af62-07c39f7a0b94@188.114.97.6:8080?type=ws&host=server20.peekconfig5.workers.dev&path=/eyJqdW5rIjoiYmNCdUhCVkFEIiwicHJvdG9jb2wiOiJ2bCIsIm1vZGUiOiJwcmVmaXgiLCJwYW5lbElQcyI6WyJbMmEwMjo4OTg6MTQ2OjY0OjpdIiwiWzI2MDI6ZmM1OTpiMDo2NDo6XSIsIlsyNjAyOmZjNTk6MTE6NjQ6Ol0iXX0=#🇯🇵[www.v2nodes.com] V2Ray Vless-JP-156109",
   "vless://7b102311-43fd-4e8f-877e-8090623c101d@proxyip.jp.cmliussss.net:443?security=tls&type=ws&path=/&host=vp10.pages.dev&packetEncoding=xudp&sni=vp10.pages.dev&fp=chrome#🇯🇵[www.v2nodes.com] V2Ray Vless-JP-155715",
