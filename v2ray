@@ -66,6 +66,14 @@
   ],
   "Netherlands": [
     "trojan://humanity@161.35.192.122:443?path=%2Fassignment&security=tls&alpn=http%2F1.1&fm=tlshello-0-len&insecure=0&host=www.pleadcourt.org&fp=unsafe&type=ws&allowInsecure=0&sni=www.pleadcourt.org#🇳🇱[openproxylist.com] trojan-NL",
+
+"vless://4a140c2f-5b0c-4524-950c-026de74fcf69@5.149.249.94:443?security=reality&type=grpc&mode=gun&serviceName=neurex&packetEncoding=xudp&sni=nlb.kosmosapp.net&fp=firefox&sid=27350908de933e09&pbk=pR39Vv5qhk8r6akOicoy6mMs4-ppSWUez8MyAXG7wwQ&encryption=none#🇳🇱[openproxylist.com] vless-NL",
+
+"vless://d4001352-dc64-48b8-b786-5860b284ad3d@176.222.52.72:443?security=reality&type=tcp&packetEncoding=xudp&sni=steamcommunity.com&fp=chrome&flow=xtls-rprx-vision&sid=5c56a4cfea5866c0&pbk=HyVJj9KuPfDV5lOLEkMeVmYFZoFMQid6eiLC_6Yf1mQ&encryption=none#🇳🇱[openproxylist.com] vless-NL",
+
+"vless://07680ffb-0666-4836-b6ad-ec0de62bc38f@app-mi-26.spbstudentlife.com:443?security=reality&amp;encryption=none&amp;pbk=cYtAkO6yUCuRTxHvF8EH76bybk1yfS005KLls-at2yc&amp;headerType=none&amp;fp=randomized&amp;type=tcp&amp;flow=xtls-rprx-vision&amp;sni=assets-mi-26.spbstudentlife.com&amp;sid=a7856800c2deb7b2#🇳🇱[openproxylist.com] vless-NL",
+
+"vless://d806a58b-33aa-42e0-b170-395e49c16b37@sql.popmintxo.cc:443?security=reality&type=tcp&packetEncoding=xudp&sni=www.microsoft.com&fp=chrome&flow=xtls-rprx-vision&sid=b558b9305a0b&pbk=Y0noOXC8qHmbM0GmDpj-9BBwKSOtHs-uMbNfKU050GQ&encryption=none#🇳🇱[openproxylist.com] vless-NL",
     "vless://2b0e5676-fb62-4bf0-9607-6e7818421e8e@de6.pad-sservice.lat:443?&security=tls&fp=chrome&sni=de6.pad-sservice.lat&type=ws&headerType=none&host=de6.pad-service.com&path=%2FDE6W#🇳🇱[openproxylist.com] vless-NL",
     "vless://afbd410e-1663-4f40-9d3b-df5117aa23ca@77.239.102.129.sslip.io:17232?&security=reality&flow=xtls-rprx-vision&pbk=OYFQrEB_Zt7kvR5OtebA3tzKEUQ57C8Pg16MXUg1A1g&sid=67aec74e00f0e90f&fp=firefox&sni=77.239.102.129.sslip.io&type=tcp&headerType=none&host=77.239.102.129.sslip.io&path=%2F#🇳🇱[openproxylist.com] vless-NL",
     "vless://2b0e5676-fb62-4bf0-9607-6e7818421e8e@nl8.pad-sservice.lat:8443?&security=tls&fp=chrome&sni=nl8.pad-sservice.lat&type=ws&headerType=none&host=nl8.pad-service.com&path=%2FNL8W#🇳🇱[openproxylist.com] vless-NL",
