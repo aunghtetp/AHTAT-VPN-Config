@@ -1,9 +1,5 @@
 {
   "Japan": [
-    "vless://4a48a59e-d731-11f1-af67-00163e0cb621@jp2.vpnjantit.com:10002?encryption=none&security=tls&type=ws&path=%2fvpnjantit#ahtat-vpnjantit.com JP",
-    "vless://4a48a59e-d731-11f1-af67-00163e0cb621@jp2.vpnjantit.com:10004?encryption=none&security=none&type=ws&path=%2fvpnjantit#ahtat-vpnjantit.com JP",
-
-
     "vless://d342d11e-d224-4463-b982-532309285094@77.110.97.245:443?security=tls&type=ws&path=%2Ffp%3Dchrome&host=ccc.010304.xyz&packetEncoding=xudp&sni=ccc.010304.xyz&fp=chrome#🇯🇵[openproxylist.com] vless-JP",
     "ss://YWVzLTI1Ni1nY206QmVhVWY5YzBBRVdINDBQdQ==@154.36.158.197:8388#🇯🇵[openproxylist.com] ss-JP",
     "ss://YWVzLTI1Ni1nY206SnVENk1OZ3RYM25WcEN6RnpYWVZZakRUWjduc21hVHY@191.223.221.53:8388#🇯🇵[openproxylist.com] ss-JP",
