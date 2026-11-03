@@ -172,13 +172,3 @@
   ]
 }
 
-  မသုံးသေးပါ
-  "Singapore": [
-    "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@82.38.31.49:8080?type=tcp#%5Bopenproxylist.com🇸🇬 Singapore",
-    "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@82.38.31.149:8080?type=tcp#%5Bopenproxylist.com🇸🇬 Singapore"
-  ],
-  "Germany": [ "ss://..." ],
-  "South Korea": [ "trojan://..." ]
-
-}
-
