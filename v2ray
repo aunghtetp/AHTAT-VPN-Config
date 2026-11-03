@@ -169,5 +169,10 @@
     "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.214:8080?type=tcp#%5Bopenproxylist.com%5D%20NL%2014521746",
     "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@82.38.31.49:8080?type=tcp#%5Bopenproxylist.com%5D%20NL%2012750463",
     "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@82.38.31.149:8080?type=tcp#%5Bopenproxylist.com%5D%20NL%2014001603"
-  ]
+  ],
+  "Singapore": [ "vless://...", "vmess://..." ],
+  "Germany": [ "ss://..." ],
+  "South Korea": [ "trojan://..." ]
+
 }
+
